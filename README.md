@@ -1,2 +1,8 @@
-# catatan-progres
-Repository ini berisi catatan progres dan pengalaman saya dalam mempelajari Git dan GitHub, termasuk berbagai latihan dan studi kasus.
+# Catatan Progres
+
+## Pengalaman Belajar di Dicoding
+
+### 14 Juni 2021
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
+- Belajar tentang apa itu Java dan alasan menggunakannya.
+- Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
